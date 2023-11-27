@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cerrar Sesin</name>
+   <tag></tag>
+   <elementGuidId>439407d6-ebd9-40b2-8cd5-3a1dd84dd29c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-raised-button.mat-warn.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/app-logout/div/mat-dialog-actions/div/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9c53e0e9-0cba-4062-a407-bc37407c634a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>b3dab6cb-9bc6-44ad-b0bf-2cd4e7ae8aa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cerrar Sesión</value>
+      <webElementGuid>30ebd2a2-3053-428b-b87f-8cac477d56e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/app-logout[@class=&quot;ng-star-inserted&quot;]/div[1]/mat-dialog-actions[@class=&quot;mat-dialog-actions&quot;]/div[@class=&quot;w-100&quot;]/button[@class=&quot;mat-raised-button mat-warn cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>39bdfcbf-923d-4bea-9964-6c74b326b414</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/app-logout/div/mat-dialog-actions/div/button[2]/span</value>
+      <webElementGuid>a3b8cf3c-5eaa-47bf-ad7d-8d29c08a5b50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-dialog-actions/div/button[2]/span</value>
+      <webElementGuid>dd723120-3aa2-4c4e-8cad-bc7a88022345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cerrar Sesión' or . = 'Cerrar Sesión')]</value>
+      <webElementGuid>3cf1d05c-b8fc-4a58-8de6-96772b76a3de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

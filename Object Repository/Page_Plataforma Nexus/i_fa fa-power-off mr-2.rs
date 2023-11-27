@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_fa fa-power-off mr-2</name>
+   <tag></tag>
+   <elementGuidId>d6b1b6dd-9497-4f2b-a6d8-985e167c275e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-power-off.mr-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-0']/div/div/button[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>573b4d0b-ff46-40e2-9342-85ffba095da7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-power-off mr-2</value>
+      <webElementGuid>924af6a2-c81f-4e83-91c0-e1b1a85cc100</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-0&quot;)/div[@class=&quot;mat-menu-panel ng-trigger ng-trigger-transformMenu ng-tns-c15-4 mt-40 ng-star-inserted mat-elevation-z2 mat-menu-before mat-menu-below&quot;]/div[@class=&quot;mat-menu-content&quot;]/button[@class=&quot;h-initial line-height-initial p-2 font-size-13 mat-menu-item cdk-focused cdk-mouse-focused&quot;]/i[@class=&quot;fa fa-power-off mr-2&quot;]</value>
+      <webElementGuid>a3a2a5a9-6464-4463-a9fe-c0b3d1fc6251</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-0']/div/div/button[2]/i</value>
+      <webElementGuid>ecfd3eca-9b3c-4ed6-bdb1-1e55c831fcad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/i</value>
+      <webElementGuid>35e369f2-0009-4975-a1c8-2742aae0a4c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
