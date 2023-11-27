@@ -27,11 +27,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Plataforma Nexus/i
 
 WebUI.click(findTestObject('Object Repository/Page_Plataforma Nexus/span_INGRESAR'))
 
-WebUI.click(findTestObject('Object Repository/Page_Plataforma Nexus/i_fa fa-user-circle font-size-40 color-2'))
-
-WebUI.click(findTestObject('Object Repository/Page_Plataforma Nexus/i_fa fa-power-off mr-2'))
-
-WebUI.click(findTestObject('Object Repository/Page_Plataforma Nexus/span_Cerrar Sesin'))
-
 WebUI.closeBrowser()
 
