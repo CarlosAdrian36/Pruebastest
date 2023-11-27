@@ -33,7 +33,5 @@ WebUI.click(findTestObject('Object Repository/Page_Plataforma Nexus/i_fa fa-powe
 
 WebUI.click(findTestObject('Object Repository/Page_Plataforma Nexus/span_Cerrar Sesin'))
 
-WebUI.verifyElementClickable(findTestObject(null))
-
 WebUI.closeBrowser()
 
