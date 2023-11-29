@@ -6,12 +6,12 @@
    <elementGuidId>182a5b10-eb7a-4911-9cc0-2acf2dd393c6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.w-100.mat-raised-button.mat-primary.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//form/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.w-100.mat-raised-button.mat-primary.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>43a9f9b8-e0d9-47f3-b313-ff563f726fc7</webElementGuid>
+      <webElementGuid>25cf18a6-ec8b-4d27-81bf-3777b732b661</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-button-wrapper</value>
-      <webElementGuid>9bd08a96-1434-49af-a498-8a5bacdfee95</webElementGuid>
+      <webElementGuid>32e8df2d-0689-498e-b91c-54e76a18d533</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>INGRESAR</value>
-      <webElementGuid>533b5c10-0916-4d82-ae81-8d6956603a79</webElementGuid>
+      <webElementGuid>f1b716cc-2b3c-451c-b66d-cbdef91bb030</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;notranslate&quot;]/body[@class=&quot;bg-main material-app&quot;]/app-root[1]/app-login[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;nx-login&quot;]/div[@class=&quot;contenido&quot;]/div[@class=&quot;row row-content&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;content-left&quot;]/div[@class=&quot;animated fadeIn ng-star-inserted&quot;]/form[@class=&quot;example-form p-20 col-xs-10 col-sm-8 col-md-12 col-lg-10 col-xl-7 ng-dirty ng-touched ng-valid&quot;]/button[@class=&quot;w-100 mat-raised-button mat-primary cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
-      <webElementGuid>35fbc7cb-ab16-4722-9202-1638881961f5</webElementGuid>
+      <webElementGuid>ec33a13b-60b5-4b9f-99a3-96ac7dfd9eac</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/button/span</value>
-      <webElementGuid>b384f954-598c-4a45-a999-87b693069898</webElementGuid>
+      <webElementGuid>e5fe6d76-c123-4c85-898e-3bdf2db66136</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'INGRESAR' or . = 'INGRESAR')]</value>
-      <webElementGuid>22a7a66a-da38-4327-a52a-7cfb13e8dbb9</webElementGuid>
+      <webElementGuid>dee95f7b-35c4-421e-8a1c-a9f4e3c45bc3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

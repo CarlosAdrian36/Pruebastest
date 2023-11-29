@@ -21,11 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://plataformanexus.uanl.mx/#/Login')
 
-WebUI.setText(findTestObject('Object Repository/Page_Plataforma Nexus/input_usuario'), 'UNI01515')
+WebUI.setText(findTestObject('Object Repository/Page_Plataforma Nexus/input_usuario'), 'UNI01516')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Plataforma Nexus/input_password'), 'BqHCGVhoZOXEToKf/D1pFA==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Plataforma Nexus/input_password'), 'j+IubWyuylad+qvRxe92kw==')
 
-WebUI.click(findTestObject('Object Repository/Page_Plataforma Nexus/button_INGRESAR'))
+WebUI.click(findTestObject('Object Repository/Page_Plataforma Nexus/span_INGRESAR'))
 
 WebUI.click(findTestObject('Object Repository/Page_Plataforma Nexus/i_fa fa-user-circle font-size-40 color-2'))
 

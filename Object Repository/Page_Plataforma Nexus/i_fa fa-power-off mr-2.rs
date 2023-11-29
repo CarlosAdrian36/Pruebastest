@@ -6,12 +6,12 @@
    <elementGuidId>d6b1b6dd-9497-4f2b-a6d8-985e167c275e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>i.fa.fa-power-off.mr-2</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='cdk-overlay-0']/div/div/button[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-power-off.mr-2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>573b4d0b-ff46-40e2-9342-85ffba095da7</webElementGuid>
+      <webElementGuid>310bce8e-154f-4fbe-a720-fccdb23944f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa fa-power-off mr-2</value>
-      <webElementGuid>924af6a2-c81f-4e83-91c0-e1b1a85cc100</webElementGuid>
+      <webElementGuid>6d3562f3-285a-4527-9cfd-5fb3076e9984</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cdk-overlay-0&quot;)/div[@class=&quot;mat-menu-panel ng-trigger ng-trigger-transformMenu ng-tns-c15-4 mt-40 ng-star-inserted mat-elevation-z2 mat-menu-before mat-menu-below&quot;]/div[@class=&quot;mat-menu-content&quot;]/button[@class=&quot;h-initial line-height-initial p-2 font-size-13 mat-menu-item cdk-focused cdk-mouse-focused&quot;]/i[@class=&quot;fa fa-power-off mr-2&quot;]</value>
-      <webElementGuid>a3a2a5a9-6464-4463-a9fe-c0b3d1fc6251</webElementGuid>
+      <webElementGuid>370263d2-9888-4522-9f1e-8fdfaa3e3820</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cdk-overlay-0']/div/div/button[2]/i</value>
-      <webElementGuid>ecfd3eca-9b3c-4ed6-bdb1-1e55c831fcad</webElementGuid>
+      <webElementGuid>95a91aa5-6998-4842-bdc0-008248fef527</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]/i</value>
-      <webElementGuid>35e369f2-0009-4975-a1c8-2742aae0a4c5</webElementGuid>
+      <webElementGuid>79309a54-b815-4a33-a401-2b4a240385d1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

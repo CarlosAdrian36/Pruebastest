@@ -6,12 +6,12 @@
    <elementGuidId>0b5f5be7-688a-43c9-83c9-45cf9d18e8a2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>i.fa.fa-user-circle.font-size-40.color-2</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-user-circle.font-size-40.color-2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>5dbe05a7-3ac8-4ed7-84ca-047df4ad3fa6</webElementGuid>
+      <webElementGuid>38aec4d5-333f-48f0-a97a-964bc19af528</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa fa-user-circle font-size-40 color-2</value>
-      <webElementGuid>fe5856a6-8042-40a2-b854-72aec8193d17</webElementGuid>
+      <webElementGuid>4bf8a921-6aa8-440b-8dfe-faca10a3e6cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;notranslate&quot;]/body[@class=&quot;bg-main material-app&quot;]/app-root[1]/app-appmain[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;material-app bg-main&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/mat-toolbar[@class=&quot;mat-elevation-z2 index-2 bg-light sticky top-0 z-index-2 px-0 mat-toolbar mat-toolbar-multiple-rows&quot;]/mat-toolbar-row[@class=&quot;d-flex justify-content-between p-0 px-md-3 mat-toolbar-row&quot;]/div[@class=&quot;w-100 d-flex align-items-center justify-content-between ng-star-inserted&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/a[1]/i[@class=&quot;fa fa-user-circle font-size-40 color-2&quot;]</value>
-      <webElementGuid>01d6722a-8d3e-4bcb-a5f1-a6bc315295df</webElementGuid>
+      <webElementGuid>d3c186bb-48ce-456b-80a8-371b6ee80139</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,6 +46,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/i</value>
-      <webElementGuid>c99d5a22-083b-4130-bce3-fe06e468fa6f</webElementGuid>
+      <webElementGuid>c2ed72c2-14a1-43aa-8e28-e5ee9894ad82</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
